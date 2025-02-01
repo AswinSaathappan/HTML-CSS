@@ -1,0 +1,18 @@
+ul{
+    list-style-type: square;
+    display:flex;
+    margin: auto;
+    gap: 20px;
+}
+
+ul li{
+    margin-right: 10px;
+}
+
+ol{
+    list-style-type:lower-greek;
+}
+
+ol li{
+    margin-bottom: 10px;
+}
